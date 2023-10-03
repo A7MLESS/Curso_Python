@@ -1,5 +1,6 @@
 # Curso_Python
 La carpeta Día 03-10-23, contiene 3 archivos google colab sobre Python
+
 01- contiene explicaciones sobre como iniciar en python, explicación de los bloques, tipos de objetos, como los numeros enteros, expresiones como la suma etc.
 
 02-Variables y Tipos: Python es orientado a objetos y no requiere la declaración previa de variables ni de sus tipos. Ejemplos de variables incluyen enteros, flotantes y cadenas de texto.

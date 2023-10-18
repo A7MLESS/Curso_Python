@@ -21,3 +21,5 @@ Ejemplos de Uso de Operadores de Comparación: Se proporcionan ejemplos práctic
 Operadores Lógicos: Se introducen los operadores lógicos "and", "or" y "not", que se utilizan para combinar y modificar las condiciones. Se recomienda el uso de paréntesis para evitar ambigüedades.
 Simplificación de Comparaciones: Se muestra una técnica para simplificar las comparaciones mediante el uso de operadores de comparación encadenados. Por ejemplo, se demuestra cómo escribir "5 < x < 10" en lugar de "(5 < x) and (x < 10)".
 Valores Considerados "True" o "False": Se explican los valores que Python considera "True" y "False". En resumen, Python considera "False" a valores como "False", "None", "0", "0.0", cadenas de texto vacías, tuplas vacías, diccionarios vacíos, conjuntos vacíos, y considera "True" a cualquier otro valor.
+
+La Carpeta del dia 04-10-23 contiene Pandas y Bucles
